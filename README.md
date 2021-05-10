@@ -1,9 +1,5 @@
 ### Hello, I am Moiz Ali Moomin 👋
 
-<!--
-**Moiz-Ali-Moomin/Moiz-Ali-Moomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on learning new technologies and creating projects to solve problems by integration  of different technologies
 
 - 🌱 I’m currently learning about different technologies like Cloud Computing (AWS, GCP, Azure), Machine Learning, Big Data (Hadoop, Hive) and DevOps Tools Like (Ansible, Kubernetes, Docker, Jenkins)
