@@ -1,6 +1,6 @@
 ### ### Hello, I am Moiz Ali Moomin [website] 👋
 
-[![Website](https://img.shields.io/website?label=moizalimomin.medium.com&style=for-the-badge&url=https%3A%2F%2Fmoizalimoomin.medium.com)](https://moizalimoomin.medium.com)
+[Website](https://img.shields.io/website?label=moizalimoomin.medium.com&style=for-the-badge&url=https%3A%2F%2Fmoizalimoomin.medium.com)](https://moizalimoomin.medium.com)
 
 ---
 
@@ -20,7 +20,7 @@ I'm a Computer Science B.tech student
 
 - Learned about coding, blogging and Marketing skills from youtube and different courses i invested in during lockdown. 
 
-- **I am sharing this to help you: Social Media Marketing Automation Tools and course to Personally used for creating a great Social Media Profile and Career as a Digital Marketer online Check it out here worth :- https://bit.ly/social-media-automation-tools**
+- I am sharing this to help you: **Social Media Marketing Automation Tools and course to Personally used for creating a great Social Media Profile and Career as a Digital Marketer online Check it out here worth** :- https://bit.ly/social-media-automation-tools
 
 ---
 
