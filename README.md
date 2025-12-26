@@ -1,8 +1,9 @@
-### ### Hello, I am Moiz Ali Moomin [website] 👋
+### Hello, I am Moiz Ali Moomin [website] 👋
 
-[![Website](https://img.shields.io/website?label=www.linkedin.com/in/moizalimoomin/&style=for-the-badge&url=https://www.linkedin.com/in/moizalimoomin/)](https://www.linkedin.com/in/moizalimoomin/)
+[![Website](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmoizalimoomin-UP-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/moizalimoomin/)
 
 ---
+
 
 I'm a Computer Science B.tech student
 
