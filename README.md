@@ -17,7 +17,7 @@ I'm a Computer Science B.tech student
 
 - ⚡ Fun fact: People Think that an individual should focus only on one thing at a time and don't be a Jack of all trades, master of none, but I think in today's world an individual can acquire many skills at the same time and then work on those skills by integrating them and create a system to solve a problem 
 
-- Experience in Technical Field: I am doing Internships and Training with **LinuxWorldInformatics PVT Ltd** https://www.linuxworldindia.org/ and Learning all the above mentioned technologies within 1.5 years and fully utilized the lockdown period to enhance and gain technical skills.
+- Experience in Technical Field: I have done Internships and Training with **LinuxWorldInformatics PVT Ltd** https://www.linuxworldindia.org/ and Learning all the above mentioned technologies within 2 years and fully utilized the lockdown period to enhance and gain technical skills.
 
 - Learned about coding, blogging and Marketing skills from youtube and different courses i invested in during lockdown. 
 
