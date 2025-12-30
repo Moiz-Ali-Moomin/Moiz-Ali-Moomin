@@ -1,4 +1,4 @@
-### Hello, I am Moiz Ali Moomin [website] 👋
+### Hello, I am Moiz Ali Moomin 👋
 
 [![Website](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmoizalimoomin-UP-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/moizalimoomin/)
 
