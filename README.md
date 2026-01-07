@@ -63,11 +63,11 @@ I'm a Computer Science B.tech student
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Kubernetes Cluster on AWS & Azure With Multi Cloud Strategy](https://aws.plainenglish.io/multi-cloud-setup-kubernetes-cluster-on-aws-azure-with-multi-cloud-strategy-dd26448b81e)
-- [How to Create a Web UI to Run Commands Using Python CGI Programming](https://python.plainenglish.io/how-to-create-a-web-ui-to-run-linux-commands-using-python-cgi-programming-5e77efe35597)
-- [How to Create a Voice-Controlled AI Virtual Assistant Using Python](https://python.plainenglish.io/how-to-create-a-voice-controlled-virtual-assistant-using-python-75198ff73571)
-- [How to Create Helm Chart from Kubernetes Yaml from Scratch Using Docker Image With AWS & Ansible](https://faun.pub/helm-chart-how-to-create-helm-charts-from-kubernetes-k8s-yaml-from-scratch-d64901e36850)
-- [Install Wordpress With MySQL On AWS Inside Kubernetes k8s Cluster Using Ansible](https://ai.plainenglish.io/how-to-install-wordpress-with-mysql-database-in-aws-inside-kubernetes-k8s-cluster-using-ansible-cd37463f878f)
+- [Setup Kubernetes Cluster on AWS & Azure With Multi Cloud Strategy](https://mediawrites.medium.com)
+- [How to Create a Web UI to Run Commands Using Python CGI Programming](https://mediawrites.medium.com)
+- [How to Create a Voice-Controlled AI Virtual Assistant Using Python](https://mediawrites.medium.com)
+- [How to Create Helm Chart from Kubernetes Yaml from Scratch Using Docker Image With AWS & Ansible](https://mediawrites.medium.com)
+- [Install Wordpress With MySQL On AWS Inside Kubernetes k8s Cluster Using Ansible](https://mediawrites.medium.com)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mediawrites.medium.com)
