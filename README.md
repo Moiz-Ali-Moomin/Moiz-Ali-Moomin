@@ -70,18 +70,10 @@ I'm a Computer Science B.tech student
 - [Install Wordpress With MySQL On AWS Inside Kubernetes k8s Cluster Using Ansible](https://ai.plainenglish.io/how-to-install-wordpress-with-mysql-database-in-aws-inside-kubernetes-k8s-cluster-using-ansible-cd37463f878f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://moizalimoomin.medium.com)
+➡️ [more blog posts...](https://mediawrites.medium.com)
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Moiz-Ali-Moomin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=000000" />
-
-</details>
-
-[website]: https://moizalimoomin.medium.com
+[website]: [https://mediawrites.medium.com](https://mediawrites.medium.com)
 [linkedin]: https://linkedin.com/in/moizalimoomin
 
