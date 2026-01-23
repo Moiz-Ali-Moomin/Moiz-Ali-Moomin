@@ -4,24 +4,29 @@
 
 ---
 
+I’m a **DevOps Engineer** with ~3 years of hands-on experience building and operating **production-scale cloud and Kubernetes-based systems**.
 
-I'm a Computer Science B.tech student
+- 🔭 I work on **end-to-end DevOps projects**, focusing on infrastructure automation, CI/CD pipelines, container orchestration, and production reliability.
 
-- 🔭 I’m currently working on learning new technologies and creating projects to solve problems by integration  of different technologies
+- 🌱 I actively deepen my expertise in **Cloud Computing (AWS, GCP, Azure)** and **DevOps tooling** such as **Terraform, Kubernetes, Docker, Jenkins, GitHub Actions, Helm, Prometheus, and Grafana**, while continuously improving system design and operational practices.
 
-- 🌱 I’m currently learning about different technologies like **Cloud Computing (AWS, GCP, Azure), Machine Learning, Big Data (Hadoop, Hive) and DevOps Tools Like (Ansible, Kubernetes, Docker, Jenkins)**
+- 👯 I write detailed **technical blogs on Medium** where I document my DevOps and cloud projects with step-by-step explanations:  
+  👉 https://mediawrites.medium.com
 
-- 👯 I have a technical blog on Medium: url:- moizalimoomin.medium.com where I have written about all the project that. I have done till date with tutorial. ***Do check it***
+- 💬 I enjoy building systems that integrate multiple technologies to **reduce manual effort, improve reliability, and scale cleanly**, and I’m comfortable working in **remote, asynchronous environments**.
 
-- 💬 I love acquiring new skills other than tech stuff like **Marketing, Blogging, SEO, Business Growth, Entrepreneurship, Graphic Designing (I have gained knowledge about these topics and trying to learn more)**
+- ⚡ Fun fact: I believe modern engineers can build depth **and** breadth — learning multiple skills and integrating them effectively to solve real-world problems.
 
-- ⚡ Fun fact: People Think that an individual should focus only on one thing at a time and don't be a Jack of all trades, master of none, but I think in today's world an individual can acquire many skills at the same time and then work on those skills by integrating them and create a system to solve a problem 
+- 🧠 My technical foundation includes **hands-on DevOps and cloud engineering work**, along with early training and internships at **LinuxWorld Informatics Pvt. Ltd**, which helped build a strong base in Linux, automation, and cloud-native technologies.
 
-- Experience in Technical Field: I have done Internships and Training with **LinuxWorldInformatics PVT Ltd** https://www.linuxworldindia.org/ and Learning all the above mentioned technologies within 2 years and fully utilized the lockdown period to enhance and gain technical skills.
+---
 
-- Learned about coding, blogging and Marketing skills from youtube and different courses i invested in during lockdown. 
+### 📌 What you’ll find on my GitHub
+- Production-style **DevOps & Cloud projects**
+- CI/CD pipelines with security and rollback strategies
+- Kubernetes, IaC, and cloud automation examples
+- Repositories designed to mirror **real-world systems**, not demos
 
-- I am sharing this to help you: **Social Media Marketing Automation Tools and course to Personally used for creating a great Social Media Profile and Career as a Digital Marketer online Check it out here worth** :- https://bit.ly/social-media-automation-tools
 
 ---
 
