@@ -1,6 +1,8 @@
 ### Hello, I am Moiz Ali Moomin 👋
 
-[![Website](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmoizalimoomin-UP-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/moizalimoomin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moizalimoomin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moizalimoomin/)
+
+[![Medium](https://img.shields.io/badge/Medium-mediawrites-black?style=for-the-badge&logo=medium)](https://mediawrites.medium.com)
 
 ---
 
