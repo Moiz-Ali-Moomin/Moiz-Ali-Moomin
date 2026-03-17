@@ -6,7 +6,7 @@
 
 ---
 
-I’m a **DevOps Engineer** with hands-on experience building and operating **production-scale cloud and Kubernetes-based systems**.
+I’m a **DevOps Engineer With Cloud and Full Stack Knowledge** with hands-on experience building and operating **production-scale cloud and Kubernetes-based systems**.
 
 - 🔭 I work on **end-to-end DevOps projects**, focusing on infrastructure automation, CI/CD pipelines, container orchestration, and production reliability.
 
