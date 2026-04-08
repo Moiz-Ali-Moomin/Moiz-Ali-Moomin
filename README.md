@@ -1,33 +1,69 @@
 ### Hello, I am Moiz Ali Moomin 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-moizalimoomin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moizalimoomin/)
-
 [![Medium](https://img.shields.io/badge/Medium-mediawrites-black?style=for-the-badge&logo=medium)](https://mediawrites.medium.com)
 
 ---
 
-I’m a **Full Stack Engineer have DevOps/Cloud Skills** with 4+ Years hands-on experience building and operating **production-scale cloud and Kubernetes-based systems**.
+I’m a **Full-Stack + Platform Engineer** with 4+ years of experience building and operating **cloud-native, production-scale systems**.
 
-- 🔭 I work on **end-to-end DevOps projects**, focusing on infrastructure automation, CI/CD pipelines, container orchestration, and production reliability.
+I work across the entire stack — from **frontend and backend applications** to **infrastructure, CI/CD, and distributed systems**, with recent focus on **AI-powered systems and FinOps platforms**.
 
-- 🌱 I actively deepen my expertise in **Cloud Computing (AWS, GCP, Azure)** and **DevOps tooling** such as **Terraform, Kubernetes, Docker, Jenkins, GitHub Actions, Helm, Prometheus, and Grafana**, while continuously improving system design and operational practices.
+---
 
-- 👯 I write detailed **technical blogs on Medium** where I document my DevOps and cloud projects with step-by-step explanations:  
-  👉 https://mediawrites.medium.com
+### 🚀 What I Do
 
-- 💬 I enjoy building systems that integrate multiple technologies to **reduce manual effort, improve reliability, and scale cleanly**, and I’m comfortable working in **remote, asynchronous environments**.
+- 🧩 Build **full-stack applications** (React, Next.js, FastAPI, NestJS) with scalable backend architectures  
+- ☁️ Design and operate **cloud-native systems** on AWS/GCP using Kubernetes, Terraform, and GitOps  
+- ⚙️ Develop **CI/CD pipelines** and automation for reliable, zero-downtime deployments  
+- 📊 Build **data and event-driven systems** using Kafka, Spark, and modern data pipelines  
+- 🤖 Develop **AI-powered systems** (RAG, MCP-based agents) for real-world use cases like FinOps and cloud intelligence  
 
-- ⚡ Fun fact: I believe modern engineers can build depth **and** breadth — learning multiple skills and integrating them effectively to solve real-world problems.
+---
 
-- 🧠 My technical foundation includes **hands-on DevOps and cloud engineering work**, along with early training and internships at **LinuxWorld Informatics Pvt. Ltd**, which helped build a strong base in Linux, automation, and cloud-native technologies.
+### 🧠 What I Focus On
+
+- End-to-end system design (**UI → API → Infra → Data → Observability**)  
+- Building **production-grade systems**, not just demos  
+- Improving **reliability, scalability, and cost efficiency**  
+- Combining **multiple domains (Full-stack + DevOps + AI)** to solve real-world problems  
+
+---
+
+### 📌 Featured Work
+
+- ☁️ **Multi-Cloud FinOps Platform (OpsYield)**  
+  Full-stack SaaS for cloud cost analysis, optimization, and governance across AWS/GCP/Azure  
+
+- 🤖 **MCP-based AI Agent System**  
+  AI-powered cloud intelligence layer enabling natural language queries via Claude/ChatGPT with RAG  
+
+- ⚙️ **Cloud-Native Microservices Platform**  
+  17+ services on Kubernetes (EKS) with event-driven architecture, observability, and GitOps  
+
+---
+
+### ✍️ Writing & Learning
+
+I share detailed **technical blogs on Medium** covering cloud, DevOps, and system design:  
+👉 https://mediawrites.medium.com
+
+---
+
+### 💬 About Me
+
+I enjoy building systems that integrate multiple technologies to **reduce manual effort, improve reliability, and scale efficiently**.
+
+I’m comfortable working in **remote, asynchronous teams** and continuously exploring **modern architectures across cloud, distributed systems, and AI**.
 
 ---
 
 ### 📌 What you’ll find on my GitHub
-- Production-style **DevOps & Cloud projects**
-- CI/CD pipelines with security and rollback strategies
-- Kubernetes, IaC, and cloud automation examples
-- Repositories designed to mirror **real-world systems**, not demos
+
+- Production-grade **full-stack + cloud-native projects**  
+- CI/CD pipelines with **real deployment workflows**  
+- Kubernetes, Terraform, and infrastructure automation  
+- Systems designed to reflect **real-world engineering challenges**
 
 
 ---
