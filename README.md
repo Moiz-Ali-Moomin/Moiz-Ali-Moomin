@@ -5,16 +5,24 @@
 
 ---
 
-I’m a **Full-Stack + Platform Engineer** with 4+ years of experience building and operating **cloud-native, production-scale systems**.
+I’m a **Full-Stack & Platform Engineer** with 4+ years of experience designing and operating **cloud-native, production-scale distributed systems**.
 
-I work across the entire stack — from **frontend and backend applications** to **infrastructure, CI/CD, and distributed systems**, with recent focus on **AI-powered systems and FinOps platforms**.
+I build and scale **microservices architectures** using **Python, Node.js, and React**, deployed across **AWS, Azure, and GCP** with **Terraform and Kubernetes**.
+
+I specialize in **CI/CD, Infrastructure as Code (IaC), and service mesh (Istio)** to improve **deployment velocity, system reliability, and observability**.
+
+My work focuses on **performance optimization, high availability (99.9% uptime), and secure system design** using **IAM, OAuth, and RBAC**.
+
+I operate across the entire stack — from **frontend and backend systems** to **infrastructure, CI/CD pipelines, and distributed platforms** — with a growing focus on **AI-powered systems and FinOps platforms**.
+
+Passionate about **DevOps, SRE, and Platform Engineering**, I build systems that are **scalable, resilient, and developer-friendly**.
 
 ---
 
 ### 🚀 What I Do
 
 - 🧩 Build **full-stack applications** (React, Next.js, FastAPI, NestJS) with scalable backend architectures  
-- ☁️ Design and operate **cloud-native systems** on AWS/GCP using Kubernetes, Terraform, and GitOps  
+- ☁️ Design and operate **cloud-native systems** Build **19+ Microservices** on AWS/GCP using Kubernetes, Terraform, and GitOps  
 - ⚙️ Develop **CI/CD pipelines** and automation for reliable, zero-downtime deployments  
 - 📊 Build **data and event-driven systems** using Kafka, Spark, and modern data pipelines  
 - 🤖 Develop **AI-powered systems** (RAG, MCP-based agents) for real-world use cases like FinOps and cloud intelligence  
