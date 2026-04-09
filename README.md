@@ -5,17 +5,19 @@
 
 ---
 
-I’m a **Full-Stack & Platform Engineer** with 4+ years of experience designing and operating **cloud-native, production-scale distributed systems**.
+**Full-Stack & Platform Engineer** with 4+ years of experience designing and operating **cloud-native, production-scale distributed systems**
 
-I build and scale **microservices architectures** using **Python, Node.js, and React**, deployed across **AWS, Azure, and GCP** with **Terraform and Kubernetes**.
+- Build and scale **microservices architectures** using **Python, Node.js, and React**, deployed across **AWS, Azure, and GCP** with **Terraform and Kubernetes**
 
-I specialize in **CI/CD, Infrastructure as Code (IaC), and service mesh (Istio)** to improve **deployment velocity, system reliability, and observability**.
+- Specialized in **CI/CD pipelines, Infrastructure as Code (IaC), and service mesh (Istio)** to improve **deployment velocity, system reliability, and observability**
 
-My work focuses on **performance optimization, high availability (99.9% uptime), and secure system design** using **IAM, OAuth, and RBAC**.
+- Strong focus on **performance optimization, high availability (99.9% uptime), and secure system design** using **IAM, OAuth, and RBAC**
 
-I operate across the entire stack — from **frontend and backend systems** to **infrastructure, CI/CD pipelines, and distributed platforms** — with a growing focus on **AI-powered systems and FinOps platforms**.
+- Experience working across the **entire stack** — from **frontend and backend systems** to **infrastructure, CI/CD pipelines, and distributed platforms**
 
-Passionate about **DevOps, SRE, and Platform Engineering**, I build systems that are **scalable, resilient, and developer-friendly**.
+- Currently focusing on **AI-powered systems and FinOps platforms**
+
+- Passionate about **DevOps, SRE, and Platform Engineering**, building systems that are **scalable, resilient, and developer-friendly**
 
 ---
 
