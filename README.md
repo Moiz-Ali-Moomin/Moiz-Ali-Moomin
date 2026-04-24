@@ -5,7 +5,7 @@
 
 ---
 
-**Full-Stack & Platform Engineer** with 4+ years of experience designing and operating **cloud-native, production-scale distributed systems**
+**Full-Stack & Platform Engineer** with 5+ years of experience designing and operating **cloud-native, production-scale distributed systems**
 
 - Build and scale **microservices architectures** using **Python, Node.js, and React**, deployed across **AWS, Azure, and GCP** with **Terraform and Kubernetes**
 
